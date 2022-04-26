@@ -5,6 +5,7 @@
 }
 body{
     font-family:'Poppins';
+    background-image: -webkit-linear-gradient( rgb(191, 80, 255), rgb(255, 198, 226));
     background-color: rgb(213, 162, 255);
 }
 .container{
